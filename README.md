@@ -24,6 +24,8 @@
   ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   ![REST APIs](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
   ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
   ![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)
@@ -50,6 +52,13 @@
  ### 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SurajDashsk&theme=onedark&no-frame=true&no-bg=true&margin-w=15)
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=SurajDashsk&show_icons=true&hide_title=true&hide_border=true&count_private=true)](https://github.com/SurajDashsk)
+## Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SurajDashsk&layout=compact&hide_title=true&hide_border=true)
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SurajDashsk&show_icons=true&theme=radical)
+
+## Contribution Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=SurajDashsk&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
 ![Profile views](https://komarev.com/ghpvc/?username=SurajDashsk)
