@@ -1,0 +1,40 @@
+## 👋 Hi, I'm Suraj Kumar Dash!
+
+### 💻 About Me:
+- 🔭 I’m currently working as a **Front-End Web Developer** at SHHANCHAK TECH (OPC) PRIVATE LIMITED.
+- 🌱 I’m currently expanding my knowledge in **Java Full Stack Development** and continuously learning emerging technologies.
+- 💬 Ask me about: **React.js**, **JavaScript Libraries and Frameworks**, and **Front-End Development**.
+- 🤝 I’m looking to collaborate on: Web development projects, especially those focused on enhancing user experiences with modern UI techniques.
+- ⚡ Fun fact: I’m passionate about building responsive and dynamic user interfaces that perform across all devices!
+  
+
+### 🛠️ Tech Stack:
+
+- **Languages**:  
+  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+- **Frameworks**:  
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+- **Tools**:  
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![REST APIs](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
+
+- **Front-End Skills**:  
+  ![Responsive Design](https://img.shields.io/badge/Responsive_Design-FF6F61?style=for-the-badge&logo=responsive&logoColor=white)
+  ![API Integration](https://img.shields.io/badge/API-ff69b4?style=for-the-badge&logo=fastapi&logoColor=white)
+  ![Web Components](https://img.shields.io/badge/Web_Components-blue?style=for-the-badge&logo=webcomponents&logoColor=white)
+
+  
+- ### 🌐 Connect with Me:
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-kumar-dash-603754217)
+
+- ### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SurajDashsk&theme=darkhub&no-frame=true&no-bg=true&margin-w=10)
