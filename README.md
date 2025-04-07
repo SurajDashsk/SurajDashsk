@@ -47,10 +47,11 @@
   ### 🌐 Connect with Me:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-kumar-dash-603754217)
  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surajkumard999@gmail.com)
+ [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30194448/surajkumar-dash)
 
 
- ### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SurajDashsk&theme=onedark&no-frame=true&no-bg=true&margin-w=15)
+ ### 🏆 GitHub Achievements
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SurajDashsk&theme=radical&no-frame=true&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SurajDashsk&layout=compact&hide_title=true&hide_border=true)
