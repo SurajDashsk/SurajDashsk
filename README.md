@@ -3,10 +3,13 @@
 
 ### 💻 About Me:
 - 🔭 I’m currently working as a **Front-End Web Developer** at SHHANCHAK TECH (OPC) PRIVATE LIMITED.
-- 🌱 I’m currently expanding my knowledge in **Java Full Stack Development** and continuously learning emerging technologies.
-- 💬 Ask me about: **React.js**, **JavaScript Libraries and Frameworks**, and **Front-End Development**.
-- 🤝 I’m looking to collaborate on: Web development projects, especially those focused on enhancing user experiences with modern UI techniques.
+- 🌱 I’m currently expanding my knowledge in **Java Full Stack Development** and keeping up with the latest web technologies.
+- 💬 Ask me about: **React.js**, **JavaScript Libraries and Frameworks**, **Responsive UI Design**, and **Frontend Optimization**.
+- 🧠 I love solving UI/UX challenges and turning complex problems into simple, beautiful, and intuitive designs.
+- 🤝 I’m looking to collaborate on: Open-source projects, frontend-focused web apps, and anything involving **React.js** or **Tailwind CSS**.
+- ✍️ I occasionally write or plan to write about frontend tips & best practices — stay tuned!
 - ⚡ Fun fact: I’m passionate about building responsive and dynamic user interfaces that perform across all devices!
+- 🎯 Interests: Cricket 🏏, Photography 📸, and Traveling 🌍
   
 
 ### 🛠️ Tech Stack: 
@@ -27,6 +30,7 @@
   ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   ![REST APIs](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
+  ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
   ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
   ![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -37,7 +41,11 @@
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+  ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
   ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+  ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+  ![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zod&logoColor=white)
+  ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
   ![Adobe](https://img.shields.io/badge/Adobe-FF61A6?style=for-the-badge&logo=adobe&logoColor=white)
   ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe_Acrobat_Reader-EC1C24?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)
   ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
@@ -47,7 +55,7 @@
   ### 🌐 Connect with Me:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-kumar-dash-603754217)
  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surajkumard999@gmail.com)
- [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30194448/surajkumar-dash)
+ [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30194448/suraj-kumar-dash)
 
 
  ### 🏆 GitHub Achievements
