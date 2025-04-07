@@ -6,7 +6,7 @@
 - 🌱 I’m currently expanding my knowledge in **Java Full Stack Development** and keeping up with the latest web technologies.
 - 💬 Ask me about: **React.js**, **JavaScript Libraries and Frameworks**, **Responsive UI Design**, and **Frontend Optimization**.
 - 🧠 I love solving UI/UX challenges and turning complex problems into simple, beautiful, and intuitive designs.
-- 🤝 I’m looking to collaborate on: Open-source projects, frontend-focused web apps, and anything involving **React.js** or **Tailwind CSS**.
+- 🤝 I’m looking to collaborate on: Open-source projects, frontend-focused web apps, and anything involving **React.js**.
 - ✍️ I occasionally write or plan to write about frontend tips & best practices — stay tuned!
 - ⚡ Fun fact: I’m passionate about building responsive and dynamic user interfaces that perform across all devices!
 - 🎯 Interests: Cricket 🏏, Photography 📸, and Traveling 🌍
