@@ -59,11 +59,11 @@
 
 
  ### 🏆 GitHub Achievements
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SurajDashsk&theme=algolia&no-frame=true&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SurajDashsk&theme=algolia&no-frame=false&no-bg=false&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 <!-- #GitHubAchievements #OpenSource #FrontendDeveloper #ReactJS #DevLife -->
 
 ## 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SurajDashsk&layout=default&theme=radical&hide_border=false&title_color=ff6e96&bg_color=0d1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SurajDashsk&layout=donut&theme=radical&hide_border=false)
 <!-- #JavaScript #React #HTML #CSS #WebDevelopment #CodeLife -->
 
 ## GitHub Stats
