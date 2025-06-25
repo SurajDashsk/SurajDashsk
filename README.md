@@ -59,13 +59,20 @@
 
 
  ### 🏆 GitHub Achievements
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=SurajDashsk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" /> </p>
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SurajDashsk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- #GitHubAchievements #OpenSource #FrontendDeveloper #ReactJS #DevLife -->
 
 ## 💻 Most Used Languages
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajDashsk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" /> </p>
+<!-- #JavaScript #React #HTML #CSS #WebDevelopment #CodeLife -->
 
-## 🔥 GitHub Stats & Contribution Streak
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SurajDashsk&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /> <img height="180em" src="https://streak-stats.demolab.com/?user=SurajDashsk&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /> </div>
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SurajDashsk&show_icons=true&theme=radical)
+<!-- #DeveloperStats #GitHubActivity #FrontendEngineer #BuildInPublic -->
 
-👁️‍🗨️ Profile Views
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=SurajDashsk&style=flat-square&color=blue" alt="Profile Views" /> </p>
+## Contribution Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=SurajDashsk&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+<!-- #CodeStreak #100DaysOfCode #DeveloperJourney #ReactDeveloper -->
+
+👁️‍🗨️ ![Profile views](https://komarev.com/ghpvc/?username=SurajDashsk)
+<!-- #ProfileViews #TechCommunity #GitHubProfile #DevPortfolio -->
