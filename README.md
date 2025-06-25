@@ -59,11 +59,11 @@
 
 
  ### 🏆 GitHub Achievements
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SurajDashsk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SurajDashsk&theme=algolia&no-frame=true&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 <!-- #GitHubAchievements #OpenSource #FrontendDeveloper #ReactJS #DevLife -->
 
 ## 💻 Most Used Languages
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajDashsk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" /> </p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SurajDashsk&layout=default&theme=radical&hide_border=false&title_color=ff6e96&bg_color=0d1117)
 <!-- #JavaScript #React #HTML #CSS #WebDevelopment #CodeLife -->
 
 ## GitHub Stats
@@ -71,8 +71,8 @@
 <!-- #DeveloperStats #GitHubActivity #FrontendEngineer #BuildInPublic -->
 
 ## Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=SurajDashsk&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SurajDashsk&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)
 <!-- #CodeStreak #100DaysOfCode #DeveloperJourney #ReactDeveloper -->
 
-👁️‍🗨️ ![Profile views](https://komarev.com/ghpvc/?username=SurajDashsk)
+![Profile views](https://komarev.com/ghpvc/?username=SurajDashsk)
 <!-- #ProfileViews #TechCommunity #GitHubProfile #DevPortfolio -->
