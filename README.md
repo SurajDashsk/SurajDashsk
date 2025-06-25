@@ -59,7 +59,7 @@
 
 
  ### 🏆 GitHub Achievements
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SurajDashsk&theme=gruvbox&no-frame=false&no-bg=false&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SurajDashsk&theme=discord&no-frame=false&no-bg=false&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 <!-- #GitHubAchievements #OpenSource #FrontendDeveloper #ReactJS #DevLife -->
 
 ## 💻 Most Used Languages
